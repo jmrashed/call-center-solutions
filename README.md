@@ -21,7 +21,7 @@ This repository focuses on call center and telecommunication solutions, offering
 ## 🛠️ **Call Center Terms and Concepts**
 
 ### Glossary of Key Terms:
-1. **CRM (Customer Relationship Management)**  
+1. [**CRM (Customer Relationship Management)** ](./docs/CRM-Customer-Relationship-Management.md) 
    A system to manage customer interactions and data, enhancing sales and service efficiency.
 
 2. **ACD (Automatic Call Distribution)**  
