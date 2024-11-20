@@ -145,14 +145,6 @@ For questions or collaboration, contact **jmrashed** at:
 - **Issue Reporting**: If you encounter issues or bugs, please report them via GitHub Issues. Provide a clear description of the problem and how it can be reproduced.
 - **Respect**: Be respectful and collaborative. Treat others as you would like to be treated.
 
-## Clone the Repository
-
-To get started with the project, clone the repository using the following command:
-
-```bash
-git clone https://github.com/jmrashed/call-center-solutions.git
-```
-
 ---
 
 ### 🌟 **Acknowledgments**
