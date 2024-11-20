@@ -24,7 +24,7 @@ This repository focuses on call center and telecommunication solutions, offering
 1. [**CRM (Customer Relationship Management)** ](./docs/CRM-Customer-Relationship-Management.md) 
    A system to manage customer interactions and data, enhancing sales and service efficiency.
 
-2. **ACD (Automatic Call Distribution)**  
+2. [**ACD (Automatic Call Distribution)**](./docs/acd-automatic-call-distribution.md)  
    Routes incoming calls to the most suitable agent based on pre-configured rules.
 
 3. **IVR (Interactive Voice Response)**  
